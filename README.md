@@ -74,8 +74,15 @@
 - [ ] Jingchi 海投于laioffer （已被拒）
 - [ ] Stella 被拒
 - [ ] Wish 顺记的朋友内推
+- [x] IXL Learning https://www.ixl.com/company/jobs?gh_jid=4052663002
+- [x] Confluent
+- [x] databricks
+- [x] opentext
 
 现在已拿到的OA：Voleon Group, Rakuten, LinkedIn, Twillio, Akuna Capital
+
+### Why this company
+Working at such a fast growth young company brings me more passion and I can actively see how my contributions make the company better and stronger. I also have much experience working at start-up environment, where I can bring my ideas openly and make our company more creative. At last, I think I have a good match on the company technology stack: I have rich experience with JavaScript and python.
 
 ### 写给内推人
 
